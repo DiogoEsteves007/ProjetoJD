@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Sreen.unity
+    guid: cb22f051c4a38a240829a9a34a128e73
+  - enabled: 1
+    path: Assets/Scenes/Level Tutorial.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level  1.unity
+    guid: 67386279557a86545a0a94154c6e2706
+  - enabled: 1
+    path: Assets/Scenes/Level  2.unity
+    guid: 073adc1c982002d41ac85848f2d552b7
+  - enabled: 1
+    path: Assets/Scenes/End Screen.unity
+    guid: 27a254c32ea28004e8d8243e7cfdb4ce
+  - enabled: 1
+    path: Assets/Scenes/Lose Screen.unity
+    guid: 2c6319b58014d3c4f8b5208e711d81f0
+  - enabled: 1
+    path: Assets/Scenes/Lose ScreenLevel2.unity
+    guid: bce7f494a0e5ef146939ca3766b29511
+  - enabled: 1
+    path: Assets/Scenes/Best_Times.unity
+    guid: 13154964a6a7b384d914d243f6f0d379
+  m_configObjects: {}
